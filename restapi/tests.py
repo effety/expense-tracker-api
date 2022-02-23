@@ -15,4 +15,4 @@ class TestSum(TestCase):
         self.assertEqual(two_integers_sum(1, 2), 3)
 
     def test_m(self):
-        self.assertEqual(two_multi_sum(2, 2), 4)
+        self.assertEqual(two_multi_sum(2, 2), 1)
